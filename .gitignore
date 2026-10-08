@@ -1,0 +1,4 @@
+people.db
+.env
+*.log
+.vscode/
